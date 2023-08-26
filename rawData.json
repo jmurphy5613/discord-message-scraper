@@ -1,0 +1,1874 @@
+[
+    {
+        "messageAuthorName": "john",
+        "messageText": "probably not. if we go with sds. if WCP is as reliable, maybe we can get it working in like 5 meetings. What would your opinion be if you went into the season knowing that 70% of worlds teams would be on swerve?. I guess it's a matter if the upside of having them, is worth time and headache of getting it to work. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "I don't think the percentage of other teams using swerve matters. The only thing that matters is how well we can execute it. Just because we use swerve, doesn't mean we'll be in the top % of teams... and just because other teams are using it doesn't mean they're in the top % either. Chances are, the teams going to worlds would be going there with or without swerve. They just happen to also have the funding and resources to implement swerve which is why they would be going anyway. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "no I'm not saying that, just more so using the top 600 or whatever teams as a point of reference for what the most effective strategy may be.. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Chances are, the teams going to worlds would be going there with or without swerve. They just happen to also have the funding and resources to implement swerve which is why they would be going anyway. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "should this gap exist between the frame and the gearbox?. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "No. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "hm. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "The plate should  be flush with the frame and the wcd bearing block Shouldnt stick past the frame on the inside. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "I probably just fastened the bearing block wrong. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "It looks right to me though since the one side is flush with the frame. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "yeah exactly. idk. I'll just leave it for now, and fix it later if it needs to be. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "My guess is you mated the plate of the gearbox to the outermost edge of the bearing block rather than the inner lip of it. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "that's exactly what i did. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "During my thought process for creating different mechanisms I'm running into a big of a wall with trying to figure out how to mount things on the robot. Is that something that you think to do after you have designed a part? If not, what are some common ways to think about mounting when you're dealing with an empty drivetrain?. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Depends what you’re trying to mount…\n\nRotating things typically get mounted with bearing blocks or bearing plates. \n\nStatic things typically get mounted with gussets or “through bolts”. \n\nSome of the less structural items were mounted with 3D printed blocks instead this year. \n\nI’d say the best way to go about figuring out how to mount stuff would be checking what COTs items are available from our common suppliers (Vex, Rev, AndyMark sort of, WCP typically has the same parts as Vex) and looking at pictures/CAD  models of other robots.. Also, we typically add cross members to the drive train for more mounting locations. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": ". Might be worth looking into. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Maybe. Practice time in a shop isn’t nearly as rough as a competition so it would be nice to know how much of that was at off-seasons. What channel was that?. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "#robots. I messaged him, asking what his exp was. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": ". "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Ok, so several spare parts needed either way. Can you ask how many off-seasons they’ve run them at so far/which ones? (edited). "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": ". "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Also. \"Programming is no worse than SDS\". "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "After leaning the \"fundamentals\" or at least having a surface level understanding of onshape, should I just go right into trying to build mechanisms?. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Maybe? Depends how confident you feel with design right now. Copying an existing robot first might help you learn more design before trying to create your own. But if you already feel like you can get through the design work/have the resources to learn, then feel free to jump right into designing something from scratch. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "I think I'm starting to like the idea of the mock kickoff more. Might be something cool we could do Tuesday or Thursday. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": ". "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "https://robotics-signin.vercel.app/leaderboard. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "What happened at robotics at 5:20 on a Monday meeting lol. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "200 New Canton Way\nRobbinsville, NJ 08691-2343. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Okay, my dad sent you an email about making a donation. I think he also wants to keep it private, which is why I'm messaging you directly. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": ". ri.harris@northeastern.edu. john started a call that lasted a few seconds. — 03/31/2023 4:26 PM. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "The programming bag wasn't brought. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "FYI for the contact info:\nCassie Pezza\n610-233-5951\ncassie.pezza@team484.org. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "if you find the time, it would also be cool if you could write a recommendation and send it to ri.harris@northeastern.edu. It's not required, but could be helpful.. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "which I really don't want to spend all of week 1 fiddling with anyway. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "so we would have to order them like now?. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "They won't be in stock for 2 more weeks right now anyway. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "I see. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "But that's a lot sooner than SDS 2 months. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "I've thought of a new idea. so buying 1 set of modules is extremely doable. what if we buy the modules as soon as they come back in stock from wcp. Then spend 5 meetings or so getting them set up and trying to get them to work. Then the game get's released, we conclude within the first day if swerve is optimal, then ditch the modules if it's not. if we dont do swerve. we go back to building two drivetrains on west coast. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Potentially... you're still risking durability issues with the WCP option though. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "if we want to avoid that we just go with andymark and get 0 meetings with them. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Which also has it's own risks. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "have there been a noticeable amount of complaints about wcp modules? (edited). "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "They are too new to tell. Most teams used SDS last year so there isn't a large dataset as is. And from what it looks like WCP is in the process of releasing a new version and that's why it's currently not in stock. It's not that there have been complaints. It's that there hasn't been much talk about them at all so it's an unknown variable. Andymark had many complaints on their in house solution... hence why they now partnered with SDS to just sell SDS's version. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "the other thing is the SDC libraries that make it easier to implement. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "That is also true. WCP has a note saying \"code coming soon\" which means they may end up with libraries at kick-off, but they don't have an estimated release date. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "yeah that's a wild risk. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "SDS is the ideal way to go if they weren't so backordered. So then it's a compromise to go to WCP, which might not be worth it. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "here's what I'm thinking. IF we can get the SDS modules by kickoff, then I think we do that. Like you said making a drivetrain with swerve should take less time then just building a regular wcd with chains all all that. So if it turns out that it's going to be a swerve dominated game, we make the drivetrain literally as soon as possible (hopefully day 2 or 3) and I get Milo to try to program it (I'll probably help here and there) before the end of week 1 into week 2 when we start mounting some prototype mechanisms. Honestly, Milo is going to need stuff to do anyway. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "I'm not saying that's the way we will go, but if that is the way we go... we should have the drivetrain CADed before kick off (and published online so it's legal to reference post kick-off) (edited). "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "I think it could be fun. there would be some growing pains. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Not sure I'd call them \"growing\" pains. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "lol. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "It would only be growing pains if it was succesful. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "I think we'd regret it if swerve was great for the game. It's definitely not optimal. or even logical. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "There are solutions to making great robots without swerve, even if it is a good game for swerve. Without the time put into swerve, swerve is no better than west coast drive. https://youtu.be/kHyr3D53RIQ?t=20386. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "I agreen. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "We were in the bottom left corner at the start of that match... does that driving look better than west coast?. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "I feel like a proud dad. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Oh you got Colin doing CAD now too?. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "hes almost there. yeah. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "We were in the bottom left corner at the start of that match... does that driving look better than west coast?. I've seen people saying that swerve is actually easier than west coast to drive. assuming your odometry and programming is correct. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Without the off-season to get it running, would there be time to get it all the programming correct plus build a good robot on top of it?. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Cassie, I feel like we reached an agreement about going with wcd, and then you reeled me back in. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Fair enough.... "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "If you told me that swerve would be on 90% of the best robots next year my opinion would change. But idk, swerve is cool, but being able to prototype better seems more valuable. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "For all we know, it could be a terrain year where swerve isn't even useful. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Exactly. I wonder if we could simply do both. Buy 8 more falcons. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Depends on the funding... and the whole team's opinion (edited). "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "I'll do the math when I get home. I hate compromise. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "do we have to budget for district champs?. or was last year just a 1 time thing. from the school. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "I can ask and see, but in the past they have only had 5000 reserved for us and we had to pay our way to champs. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "and the $16200 number is comprised of what? (edited). "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": ". The \"actual\" column is currently just an updated prediction for the student fees and candy bar sales. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "also did Justin tell you what the guy that owns his dad's company said. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "And worse case of 8 students drop before build season and all candy bars are sold at the 3 for $5. No. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "\"I love robotics\". "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Haha, that's promising. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "falcons are out of stock lol. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Yes, they are also a big shortage issue but supposedly there will be several patches in the coming couple months (edited). "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "and we currently have how many falcons? (including 2022 robot) (edited). "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "I want to say 13 (edited). "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "oh. that's a lot. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "There were 6 on 2019-2020 drivetrain plus 1 on the shooter. This year's had the 4 on the drive train and 2 on the shooter... I am not sure if there were any spares because I think we were counting the 2019-2020 motors as spares for this year (edited). It's a lot but still not enough for 2 swerve drives trains anyway. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "well.... I'm getting us at $7200 for the robot including Justin. $3600 for 8 modules + 5 falcons. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "I'm getting us at $7200 for the robot including Justin. ?. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "so after hotel fees + champs + entry fee from the original 16200 we are at 4200. then if we add 3k which is an estimate for Justins dad. we are at 7200. then the 3600 for 8 modules and 5 falcons puts us at $3600 for everything that isn't the drivetrain. assuming all other sponsors fall though. but buying 8 modules seems like. weird. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Isn't the drive train gearboxes*... the drivetrain still needs framing (edited). "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "what do you mean?. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "We'd have to buy the versaframe for the drivetrain too. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "the wcp one comes with a corner mount. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Yes, that's an option with them. From what I've seen, it's a weaker connection than the frame mounted one though. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "yeah this kinda seems really dumb. do we really wanna go to 0 dollars to buy not 1 but two swerve drivetrains. which I really don't want to spend all of week 1 fiddling with anyway. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Like Peddie?. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "I guess I just really like the idea from the video from 1678 of making a suboptimal robot very quickly, and figuring out what you don't know through failing fast. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Peddie had goals for their robot and strict deadlines. If they didn’t reach a goal by the specified date, they scrapped that idea and moved on to fine tuning what was already complete. Hence why they had no turret and just a mid bar climber. Neither of those designs were complete in time. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "That's not really what I'm talking about. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Ok. I’ll go back and watch the 1678 video you sent. I only watched the first half. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "It's in the first half. I'll send timestamps. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "I think making a second drivetrain would be independent from the competition robot timeline - especially with 38 students. So we would be able to still follow 1678's timeline if we wanted to... granted knowing our team I think our goal should be to have a complete robot by week 6 (2 weeks before our first event) and not week 4-5 like they do. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Go to 4:30 in the video. It sums up what I'm saying. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "I think making a second drivetrain would be independent from the competition robot timeline - especially with 38 students. So we would be able to still follow 1678's timeline if we wanted to... granted knowing our team I think our goal should be to have a complete robot by week 6 (2 weeks before our first event) and not week 4-5 like they do. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Ideally this is how I would break it down:\nWeek 1: Design work + prototype drive train built\nWeek 2: Competition Drive train built + mechanism prototyping started, design work continued as needed\n- Intake would have the prototype drive train at their disposal for mounting to and testing on\n- Shooter typically doesn't need a robot at this stage of the game\nWeek 3: Mechanism prototyping\n- Intake would now have 2 different drivetrains to test on if there are more than 1 designs to explore\n- If shooter is ready to mount to robot, they can get the prototype robot while intake as competition robot to work with\nWeek 4: Mechanism prototyping/system integration\n- At this point both shooter and intake should be tuned enough where we can figure out how they integrate/index together (this should be in the conversation from day 1, but actual implementation might not happen until week 4)\nWeek 5: System integration/coding/testing\nWeek 6: Testing/Adjusting/Driving and building back ups of critical components\nWeek 7 & 8: Building back ups of critical components and driver practice (edited). That breakdown only works if during the mechanisms prototyping phase, teams are working to actually iterate between their designs and build fully functional prototypes (and not just the wooden v1 prototypes like we've done in the past) (edited). "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "That was a very general outline just to show that doing a second drivetrain shouldn't slow down the rest of the mechanism work, but might actually make it go faster. Citrix has the advantage of having almost all of their old robots together so like they said in the video, they can use an old robot to test from... we don't have that advantage so they start out 1 step ahead already. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Yeah I'd prefer that model (if pulled off correctly) over having a drivetrain that might be useful. Obviously there are a lot of contingencies, but having a competition robot and a prototype version seems like a really good idea.. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Then you have 2 spaces to build off of to test out designs. I don't think that would benefit the shooter group much but it would benefit both the intake group and potential climber group. And again, based on funding we might not end up with 2 fully functional robots but the groups we have a space to test on before transitioning to putting it onto the complete robot. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Yeah plus being able to give the programmers something earlier will make it a lot easier. Like we could set up general auto stuff before we even have the real robot. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "True. And then the drivers can practice with something (prototype bot) while the programmers are doing autos with the complete robot later on. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "And other than money the main driving force of this different timeline basically comes down to design + cad?. It would also just reduce assembly time. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Yes, the more flushed out the design is ahead of time the faster the prototypes can be iterated through because we don't have to waste time trying to design on the go. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Okay, I'm also going to try to fiddle around with the cnc next meeting if that's possible. Is that something that I can still use onshape for?. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "You can use onshape to make the model but you might (or might not) need to export to fusion afterwards to get it into the right file format... I know the CNC still needs new coolant lines and an enclosure so it won't be ready for a full run yet. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "okay, ill throw away my swerve dreams. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "When you found the pulley on the field after an elims match... did you go up to Krypton and ask if they lost it? (edited). "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "When you found the pulley on the field after an elims match... did you go up to Krypton and ask if they lost it? (edited). He took the part and said maybe. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Looking back of SDS's shipping estimate... we won't get swerve until the start of build season at the earliest which means there would be no time to test it/practice with it ahead of time... making it maybe too risky to try swerve during build season (Kevin thinks too risky to bother buying it). Most teams seem to permutate their robot with a limelight or something. But I think it should be reviewed with the team Thursday. Because after rapid react a lot of people are very pro swerve. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "I don't think they'll be pro swerve after this season if we rush it. But yes, it's a team decision and will need to be decided with everyone. Granted, it still also depends on funding to a certain extent.... "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Yeah it's a high risk, low to possible negative reward scenario. Plus we'd be able to test out a new way of doing build season. Which probably has a bigger upside then being able to also move sideways. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Another option would be: https://www.chiefdelphi.com/t/sds-mk4i-vs-wcp-swerve-x/408755. Swerve X currently only has a 2 week back log, but it hasn't been as popular so it's hard to say how reliable it is. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "I mean it's made by wcp, have they had reliability issues in the past?. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Which probably has a bigger upside then being able to also move sideways. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Really? I mean it's very game dependant. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "There are more gears, bearings, plates, to break. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "I'm leaning towards it being a pick and place game, which is typically very swerve centric. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "given the fact that it's getting easier and easier to integrate idk. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "FIRST most likely wouldn't design their game based on swerve/no-swerve... if they have an issue with the swerve trends they would modify the robot construction rules to counter it but they wouldn't design the game around it (edited). "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "I'm leaning towards it being a pick and place game, which is typically very swerve centric. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Yes. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "I remember seeing so many wcd teams that did really really good. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Anything where you don't have projectiles. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "granted my sample size was small. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Pick and place means you can't just add a turret or rotate your robot to get lined up... you have to actually have your robot lined up which makes swerve drive have a better advantage. Doesn't mean WCD can't do well, it just means the driver has to be better at lining up (edited). The other part would be defense. Swerve with a good driver can be harder to defend against so it could also come down to what the defense rules are like... 2019 had strict defense rules where only 1 robot could be on the opponent's side of the field. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "I mean having the modules can't hurt us. worst case it's an offseason project and gets rid of $1200 of our budget plus it can be used in the future. not that I think you should. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "If we are in a position where we know we have an extra $1200, I agree ( at least to some extent). I think enough of the team would have to agree to wanting to limit our budget by $1200 on something that might just sit on the shelf for several months. But we'd have to have an actual surplus of money first before going that route. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "didn't nasa grants release today?. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "They just said \"the week of the 7th\". "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "ah. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "I haven't seen it actually posted yet. We should find out about NASA this week and Raytheon by the 14th when registration is due. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "gotcha. what is the projected budget? (edited). assuming student fees of 30 members + school money + any other sponsors you have heard from + chocolate money (edited). "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "$16,200 income. But NASA could be up to 4k and so could Raytheon. And if we get that sponsor email over to Justin's Dad that could be another 3k I think. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Justin told me he is finishing the pamphlet Thursday and sending it over. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "$16,200 income. seems like we have negative money. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Until at least 1 other sponsor is confirmed, technically yes. But there are 4 potential ones (NASA, Raytheon, Justin's dad's company, and also Maya's parents' company) plus other fundraisers that can be set up (discount cards, taddeo's flower sales, other ideas). "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "okay, ill throw away my swerve dreams. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "I wouldn't until November 14th... after that then maybe unless we organize another fundraiser specific for swerve. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "After watching Justin sell my entire chocolate box in 4 hours, I think maybe we could sell some more stuff. isn't our 3d printer completely broken?. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "No. It just needs a new thermocouple which we already have. Jon Wong just keeps forgetting to bring his metric wrench in so we can actually install it. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "ah okay. swerve would also probably kill the idea of having a drivetrain done early. or even a robot done early. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Drive train could get done just as early. even earlier really since there's less manufacturing to add the gearboxes and less decision to be made about wheel size, gear ratio, placement of gearboxes (edited). It would kill the idea of having a second drive train for driver practice/prototyping off of. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "hmmm. making 2 robots would be interesting. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "I don't think we're in the position to make 2 robots no matter what. my hope was 2 complete drive trains, 2 complete intakes, and then using it for prototyping other mechanisms before they go on the actual robot. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "right. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "It would give more people something to do and would help reduce the time that 1 group is waiting for another group to get out of the way on the actual robot. And a drivetrain + an intake + some sort of contraption to mimic center of mass would get us very close to simulating the robot during driver practice before the competition robot is complete (edited). "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Is that even better than making 1 robot by week 4 or 5 and then scrapping half of it by our first comp?. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "I didn't think David was better than Ian. he was very timid, and had a very hard time lining up against the fender. I wrote down for Ian \"glimpses of being really smooth but is jerky\". The other person that drove was Zach who is a senior. who was better than the freshman but not nearly as good as Julian. Maya wanted to give Julian a practice match (which I don't disagree with). But in the long run it's quite hard to see a senior rivalling toshan. he did 12 cycles. and Max did 10. But it should be known that I am a bit biassed towards Toshan. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "The hard part with Julian is, unless he is significantly better there's no point in wasting time training him. Max doesn't need to be better for the time training him to be valueable. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Yeah, it's a bit unfortunate. also Cassie. more of a side thing. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Yes?. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "More people need to step up in getting us organized during meetings and stuff. I hate being that guy that tells people what to do even though I'm just one of them.. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "You mean like everyone just sitting at the table talking even after Kevin told them to roll up the carpets?. He came down and told me he couldn't get them to budge. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "there's lots of equivalent scenarios. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "I'm aware. When we have the talk about team goals after ramp riot we can also have a discussion about that. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "what kind of wheels are we using on the drivetrain rn?. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "https://www.andymark.com/products/6-in-performance-wheel-xl-0-50-in-hex-bore. With this tread: https://www.andymark.com/products/blue-nitrile-roughtop-tread-1-in-wide-10-ft-long?via=Z2lkOi8vYW5keW1hcmsvV29ya2FyZWE6OkNhdGFsb2c6OkNhdGVnb3J5LzVhZjhlMjkyYmM2ZjZkNWUzNmYyMzk3ZA. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Thanks. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Do you happen to have any pictures of the frame of the drivetrain?. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": ". . . Technically those were of the intake, but it also had the driver train before other stuff was added. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "should I care what kind of bearing blocks we're using? (edited). "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "We're using the VersaBlock clamping bearing blocks from vex for the outer wheels and the center wheels use the WCP Gearbox Bearing Blocks. https://www.vexrobotics.com/bearingblocks.html (edited). Depends how detailed you want your model to be. If you're trying to get to a level of fully designing a robot, I'd say yes... FYI the drivetrain will be using REV Ion parts next year so the design will be different (edited). "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "You haven't ordered parts for next year right?. Also. How quick are part manufacturers to ship parts. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "No they haven’t been ordered yet. Typical shipping times are 3-5 business days depending on which company (vex and rev are based in Texas so they are closer than WCP which is in cali). But there is a bit of a stock shortage right now so it might take longer to get parts in stock to be ordered. Why do you ask?. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "...what if we do swerve mid season?. I just didn't know if I should be adjusting for part shortages when designing in the future. Or if I should always assume we can just order it. Or somewhere in between. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Current lead times for swerve from SDS: https://docs.google.com/spreadsheets/d/e/2PACX-1vRC1mKf-B85f1eAkZmlXeeOmhCAMgTzSV82qIaNTRuNdICqWNJauSCE0pQm5yee7A3ZsjwNa03cmofd/pubhtml. Swerve is one of the bigger items that has been having supply issues. It's something we would probably need to order before build season as a \"just in case\" if we wanted to use it this upcoming season. The plan is to have the most common parts we would need already on hand.  Things that are very game specific (like the climber from this past year) would need to be ordered during build season or made in house. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "and there's no real point in forcing. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Right, they need to want to learn it for it to stick well enough. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "But I will say that the one thing that I do see that is quite positive, is there is a high desire to do well. Just from observation I think it's wild that Colin is really excited about going to robotics, and actively talks to be about other teams mechanisms. Which I've seen similar instances with some others. People like robotics, but it's nearly impossible to navigate with all of the junk that lies between complete naiveness and some basic understanding (which I'm currently trying to navigate through) I think there needs to be a direction specifically for seniors. If they want to put together a mediocre robot and be on the edge of qualifying for districts if you can simplify the game enough, and just being OKAY (while not learning THAT much), then we're in perfect position to do that. But I think saying explicitly that we just don't have the technical skills to do as well as they are hoping will be a massive wake up call. Which might inspire people to do stuff.. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Yeah I think a lot of the students fall into the naiveness. It's hard not to when all they have seen is our own team. You're right that it needs to be explicitly pointed out how much there is to learn. After ramp riot, I think our main focus should be getting that knowledge at least available through online resources. Based on interest, maybe also through lessons of some kind or very specific knowledge focused off-season projects. I think the more students learn before build season, the more independence they can have during build season.. Also, from the video you sent: I liked the design review idea. I think that could also give students more independence with design during build season. The students can independently do the design work/re-design work and then initiate the review process with a mentor for feedback. That eliminates the problem of mentors swaying the design early on and gives the students an opportunity to learn more throughout build season. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "yeah, they also had a 1 mentor/mechanism lol. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "We sorta had that last year. Kevin had intake, I had shooter, Kylie was supposed to have climber. Then it all fell apart when Kylie wasn't there lol. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Yeah I think a lot of the students fall into the naiveness. It's hard not to when all they have seen is our own team. You're right that it needs to be explicitly pointed out how much there is to learn. After ramp riot, I think our main focus should be getting that knowledge at least available through online resources. Based on interest, maybe also through lessons of some kind or very specific knowledge focused off-season projects. I think the more students learn before build season, the more independence they can have during build season.. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "We sorta had that last year. Kevin had intake, I had shooter, Kylie was supposed to have climber. Then it all fell apart when Kylie wasn't there lol. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Yeah I definitely think a reality check is needed. Or at least a good 30 minutes to think about goals. With brutal honesty about lack of knowledge. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "With brutal honesty about lack of knowledge. looking forward to it. Thanks for being so responsive and caring. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "I wouldn't do this if I didn't care. this as in mentor. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Were there specific operator/driver pairs made?. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Yeah, it would be Colin + Max and Toshan + Matt. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Ok... which one of them gets the practice match. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "I was thinking Colin and Max. Toshan would be in for when the discrepancies would matter. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Ok then I will priortize them on the bus with the robot first. Idk how many seats are in each bus so I'm making a list based on priority. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "I thought we had just one big bus. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "I asked for a bus with a lift thinking it would be 1 big bus with a handicap lift and we ended up with 1 big bus with no lift and 1 small bus with a lift. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "lol. Also we had decided that Jordan would be with Max + Colin as drive coach. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "This is my list so far. Still don't know how many seats will be open on the bus with the lift: \n\n1. Kevin Connell or me (but not both) \n2. John Murphy (coach/pit crew) \n3. Max (practice match driver) \n4. Colin (practice match operator) \n5. Jordan (practice match coach)\n6. Justin (pit crew) \n7. Toshan (other driver) \n8. Matt (other operator) \n9. ? (edited). It's in order of priority so whoever is higher on the list goes on the bus furst. If jordan is coaching max/colin then i will put him with them on the list. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "yeah that looks good to me. Yeah, I also have a feeling that Cunningham and Jordan are going to be very adamant about me not drive coaching. So it could be subject to change. I was also thinking that Justin could do strategy or something. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "I'd personally like to get a student out there as coach for practice since it is an off season but we'll see. I'd recommend if the coach and strategy person are two different people, make sure they are both going around to teams together so it doesn't become whisper down the lane with strategy. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Yeah, I'm going to walk around with Justin and let him do all the talking, with my input here and there. I haven't told him that yet. But I think it would be nice. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "I agree. And he'd probably be good at it. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Did you have ranking for the freshmen that drove the robot?. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "freshman to the team?. Julian was actually really good. like give him an hour and hes better than max (if all goes well) (edited). "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "But is he better than Toshan after that hour. Because as a senior, that's who he has to beat out. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "yeah, exactly. Ian was probably the best freshman at driving. but there is a major conflict there. He was not afraid (unlike a lot of the others). "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "I did think Ian was good. He was pretty much always spot on with his turns. He could use more practice but I think they all good. What were your thoughts on David (first one who drove) (edited). "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "I think everyone wants to win. But not everyone wants students to sacrifice their place on the team to win. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "I think everyone wants to win. But not everyone wants students to sacrifice their place on the team to win. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Have a mentor take it over. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "oh yeah, I don't think anyone wants that. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "I don’t think it will set us backward though and we’ve already been improving over the years. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "True. I think mentors can definitely help give that knowledge without taking over if it's done properly but sometimes it can be hard so we'll have to make sure the mentors and students in each mechanism group are regrouping and every so often to make sure the right balance is still there. (ie mentor isn't doing too much or not enough). "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "You left your laptop here. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Oh no. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "you gonna come back for it tonight?. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "No, just leave it there. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Ok. i put it on the admin desk by preddy's old small desktop monitor. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "https://www.youtube.com/watch?v=HBOvJ3KL2n8. giving this a watch before the game is released would be a good idea. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "As in the whole team? During a meeting?. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "or someone gives a summarized version. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Ok. I mean it’s an hour which we have time for but I don’t know how many students want to sit still for an hour. In the past people have suggested doing a “mock” kick off. Would watching this video (or a summary of it) plus a mock kick-off make sense before kick off?. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "probably. Not sure to what extent a mock kickoff would help, considering how known the best mechanisms for each game are. I just like their philosophy of bypassing the growing pains that occur after a first regional, by trying to accelerate the process of building as much as possible to create a full mock design by the first 3 days (a rough cad after week 1.5) , a drivetrain built as quickly as possible (week 1). and then constantly iterating. they also talk about how to use meeting time the most effectively. they said a large contribution towards being efficent was leaving all the design work to be done at home. . I thought maybe we could do a slightly elongated verison lol. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Yeah. The biggest thing with design work at home is… get students to actually do it. But I agree our timeline could use improvement. If enough students learn CAD this fall, it should help with the timeline because there’s less kinks to work out down the road. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "agreed. https://onshape4frc.com/robochargers-curriculum#week1. This would take ~10-15 hours to complete if you start from week 1 with 0 exp. Getting 3 people to do this would probably be a massive help. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Is it something even freshmen would understand or do the freshmen need to learn basic terminology first? (edited). "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Yes. But in my opinion, freshman should try to soak in as much information about robotics as quickly as possible. without some elementry concepts understood it's pretty useless knowing how to cad. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "I agree. I just don't know the best way for them to get that knowledge without 1) relying on them watching a bunch of youtube videos on their own like you are know or 2) having really long boring powerpoint/lecture style meetings. Cuz just doing a single off-season project is typically very limited in scope so they don't pick up too much knowledge. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "I think some variation of what your describing makes sense. you will get little to no engagement if you address them as 30 people. you get so much more out of telling specific people certain things. at least in my anecdotal experience. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Yeah I agree. If it's a conversation with a handful of people they pay attention, ask questions, actually learn. If it's everyone at once it's just like being in a classroom so it's boring and people don't pay attention.. Also not everyone wants to learn everything. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Also not everyone wants to learn everything. I think noting who is always there. or shows some interest is a good idea. Because it's really just people needing to put in the hours imo, because we dont have that much time left. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Yeah. It's rare to have students put in the hours... since i've been on the team there have been 2 students who actually put substantial time to learning (nearly) everything outside of robotics on their own: Kevin Connell and you (edited). No one else. I didn't even do that cuz I always ignore programming. But really, we just need a handful to take interest in ~20 hours of design/CAD work to make a difference. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "wait. you HAVE covid?. or were exposed?. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Well I'm going under the assumption that I have it. My test was negative yesterday but then my dad tested positive and I got a fever (edited). "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "oh no. Justin said \"hope Kevin gets well soon\". "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Kevin doesn't even have it though. At least, not yet. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "And I'm one of them and Gianine was exposed elsewhere so it just made sense to cancel (edited). "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "does our CNC work?. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "I think so. I believe Kevin said the cooling system could use an upgrade but small jobs should be fine. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Okay nice. Can I use onshape with that?. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "You can use whatever CAD software to create the 3D model. We might need to use fusion after the fact to create the path but we might also be able  to just export the model to use with the CNC file format from onshape but idk. If we need to use fusion it’s easy to export your onshape file and then upload it to fusion though so I wouldn’t worry about which software you use for the 3D model. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "okay. I think we should try to CAD the robot this year. it seems like the most beneficial thing we can learn until kickoff in my naive opinion. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Marcus is joining our team so it’s part of the plan to teach students CAD this fall. I’m not sure exactly how it will play out yet but Marcus seems to have a fair amount of FRC CAD knowledge so we’ll probably defer to him when it comes to teaching CAD. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "yeah, there seems to be a lot of case specific tools for frc. so far my learning has just been watching old 2021 lectures from various teams. building west coast drive took me like 2 hours lol. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Lol have you used any of the MKCAD library yet?. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "yeah, I had to import the gear boxes and whatnot. but there were a lot of scripts made by this Julia figure. https://www.chiefdelphi.com/t/some-helpful-featurescripts/361652. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Yeah Julia makes a lot of them. Not sure where these people all have the time for doing such things but I the feature scripts and MKCAD library are great tools for onshape. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "lol. by going into the rabid hole of more competitive frc teams I've realized how completely clueless I am. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Yeah it’s hard to know how much you don’t know until you dive deeper. Most of the team just knows how to design the 1 robot design we repeated two years in a row. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "yeah.... even then, the way we did it was slightly questionable. especially when I look at teams like high tide. my mind was blown. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Yeah… It’s a hard mix of “do you tell the students some better ways or let them have control” and a lot of times the students want control because they don’t realize what they might be missing. And honestly every team has different opinions on the best way to tackle a problem so you might learn “the best way” do doing something on one team’s tutorial and another team might say to never do it that way. It all comes down to the personal experiences each team has had. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "yeah, the way you did it makes a ton of sense. I've seen a lot of different takes on it, but mentor made robots are dumb thb. I like the \"idk it's your robot\" approach by the mentors. But looking through old mechanism libraries would have been useful. Dean Kamen:\n… I heard people saying “well sure that other team did great, but thats because the engineers did all the work. The kids didn’t build the robot” I have to tell you, FIRST is not an educational institution. Its okay if the kids build the whole robot, its okay if they don’t touch it. FIRST ought to be to education what the NFL or the World Series is to little league.. https://www.projectb.net.au/resources/robot-mechanisms/. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "In the beginning I did give some suggestions but I realized that you guys all took what I said to heart too much so if I gave a suggestion, you did it that way no matter what. So then I just stopped giving suggestions unless I had several already on hand for you to “pick” from. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "unless the game this year is so out of the park that no past ideas from the past 2 decades apply that's probably the best idea. if your goal is to get people to learn. if you really badly want to win high school robotics competitions and ruin the potential growth of kids, then you make a mentor designed robot. which in my opinion is kind of a no brainer. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "I don’t care about winning tbh. I just want students to learn more. And I don’t think you guys learned as much as you could have. It was a lot of copy paste so the range of knowledge was more limited. I do think some form of mentor input is required for the most amount of knowledge to be transferred but no where near “mentor built” level.. But I think the parts library is a great way to objectively suggest other mechanism ideas. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "I don’t care about winning tbh. I just want students to learn more. And I don’t think you guys learned as much as you could have. It was a lot of copy paste so the range of knowledge was more limited. I do think some form of mentor input is required for the most amount of knowledge to be transferred but no where near “mentor built” level.. but I will say I do care about winning as a student. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "imma make a poll on the duel server though. if not enough people want to come after 6:30 i can have Mr. Connell just drop the bus off at 4 for us. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Did you reach a decision?. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "We can do both. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "You should announce that. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Hey. I forgot my bag. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "On the bus?. Or the school?. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Either the bus or the school. Someone may have moved it. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Our high school?. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "I can't say 100%. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Or hatboro?. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "No it's in the bus. Or robotics room. If someone moved it from the bus. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Ok Mr. Connell said he cleared his bus of everything onto the loading dock so it might be on the loading doc still. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Okay. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "FYI you were exposed to COVID at the competition from someone on our team so please use this CDC Guideline Calculator to determine minimum precautions to take: https://www.cdc.gov/coronavirus/2019-ncov/your-health/isolation.html\n\nYou should wear a well fitting mask around others until 11/1. If you haven’t had COVID in the past 30 days you should test on 10/28. If symptoms develop you should test and isolate until the result is known.. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "who. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Pretty sure I’m not supposed to share that info. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Pretty sure I’m not supposed to share that info. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "See, that was inadvertently and I wasn't supposed to there either. Whoops. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "no im joking i don't care. also dont blame maya. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Eh I mean Jordan said he didn't care anyway but I didn't want to start the precedent of answering that question. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "I feel like people should know who it was considering the duration you are around someone can influence if you get it or not. but I get the whole confidentiality. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Logically yes, from privacy stand point no though. But yeah all of drive team was the most exposed. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "yayyyy. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "hey, at least we still have Toshan if everyone else is still sick for Ramp Riot lol. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Good thing is Justin, Me, and Matt all got covid before. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "hey, at least we still have Toshan if everyone else is still sick for Ramp Riot lol. he said he is so sick he cant walk. so I wouldn't rely on it. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Toshan?. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "yes. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Didn't know he also had it. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "he doesn't. or at least we dont know. . btw I love the idea cancelling the meeting. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "It's up to 4 people on the team right now. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "HUH. oh boy. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Yeah.... "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "yeah, once we pass the 4-5 threshhold it will be easier to get a count. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "but probably. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Ok if you find it, upload it to the drive. If not let me know and I can have someone make a new one up for this year. https://drive.google.com/drive/folders/11d5dycp_q-KV73Qf6f5ZZZNH-M6_Ub87?usp=sharing. john started a call that lasted a few seconds. — 10/04/2022 3:06 PM. You missed a call from cmep125 that lasted a few seconds. — 10/04/2022 3:08 PM. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "where should we be mounting the motor for the intake?. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "That’s one of the things we have to figure out. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "okay, Colin and I are going to attempt it. Might just fail miserably. The fact that the length between everything changes as the intake is deployed makes it harder. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "At tonight’s meeting?. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "yep. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Ok, I can help you guys tonight to show you some ways to work around moving parts with long wires. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "we're also held a little back by the chain length, since I'm assuming it needs to be static. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "The distance from the wheels to the motor won’t change. Just the distance from the motor to the PDP since it’ll be on the intake. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": ". "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "You and Kibby couldn’t have timed that any better if you tried haha. You both sent me yours at the same time. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "LOL not even close. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Um did you guys move the cafeteria tables back into the commons? K think we had moved them to the hallway before you got to the meeting. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Can we do after school today?. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Instead of 6:30?. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "maybe? Idk. might be a bad idea. cuz toshan cant come tonight. do you know if kevin was coming tonight?. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "He said it depends on how he is feeling. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "ah. idk how many people are coming at 6:30. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Justin, Matt, and Colin at the very least. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "right. 6:30 is probably fine. it's just something we thought about at physics. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Ok. Jordan is free today after school so if you guys want to do just driver practice and autos in the commons after school we can. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "id feel bad for the people we dont give a heads up to. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "If it’s just for driver practice and you and toshan can go then it doesn’t really matter who else is free right after school. The others can still come at 6:30 to pack up and what not. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "i dont want to do that to you tho. don't you have work?. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Come both after school and 6:30?. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "yeah. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Yes but I work remotely today. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "ahhhhh. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "And laptops are portable. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "I got u. sure, lets go for right after school. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "And still 6:30 to pack up? Or just after school? I know Matt and Justin said they don’t drive to school so coming at 6:30 was easier so they had a ride home. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "I can do both. But do what is best for you. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "I’m thinking we’re going to need to meet at 6:30 to load the buses at the very least since that’s the time I gave Mr. Connell. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "okay. so not after school?. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "No, I just meant in addition to after school. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "I can tell it’s signed but I also need to be able to read emergency contact info in case it’s needed at the event (edited). "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "yeah, im attempting to do this on my webcam because I dont have a phone, ill manually send the contact info. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Yeah sending the contact info manually will work. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Name - Barb Uricteck Relation - Aunt Phone - 703-268-1542 || Name - Shannon Sweitzer Relation - Neighbor Phone  - 6102-220-5874. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Did you end up taking an at home test or did your dad make you get a more formal one?. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "i did the at home test and it was negative. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "If we meet tonight can you come? I didn’t put it in the team calendar so I’m not sure who all is available or not. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "yes. i think everyone assumed we had a meeting today. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Yeah that’s what I thought but last night Maya mentioned it wasn’t on the calendar and Jon said he couldn’t come because he made plans since it wasn’t on the calendar so now I just want to double check. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "do we have the commons today?>/. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Yes so hopefully we can get the physical stops mounted quickly and then transition to driver practice or whatever. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Berardoni will be here in 15-20 minutes. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "how many off season comps do we have?. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "1 in June and then 1-3 in the fall depending on what people want to do. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "what was the issue with stripping the robot of parts that we could put on again later. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Every time we’ve taken a robot apart to “put back together later” it’s never been put back together. We’ll have to see what our budget is looking like. If we can afford new parts I’d prefer that but it might not be possible so we might need to strip it down. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "I just spoke to my dad about getting in contact with SIG (they have no email on their website lol) and he said hes going to reach to someone to see if they would match his donation. I have no idea as to the dollar amount, but hopefully that helps to some degree. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "So Cassy. Hypothetically. I was talking to Maya. And we came up with idea of paying you upfront as a form on donation, as an \"investment\" removing the financial risk for the club. Then over the course of the year we would host fundraisers and pay pack these people. I know it sounds odd. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": ". "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "https://hackclub.com/bank/. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Do you actually have COVID? ⁠Robotics⁠. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Yes. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Oof. Hopefully you're not too symptomatic. Since and including Tuesday's meeting who were you within 6 feet of for more than 15 minutes. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Well considering our meeting that we had. Almost everyone. But I was directly next to toshan, matt, Colin, you, Kevin, Lucas, Maya. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "You were in the front when we were going over projects so I'd say only the people direct next to you were within 6 feet during that part so that should be good. And then Milo later on when you were at the programming table right?. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Yeah. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "And that should be everybody?. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Who are you counting during the meeting?. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Like the project going over part of the meeting? Or the entire meeting?. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Who are you referring to when you say that should be everybody. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Every name you listed so far. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Yeah that should be everyone. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Although if you listed Kevin just from the part when we were going over projects I think he was 6 feet away but if you had closer contact after that then I can include him. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Not really, we spoke to each other briefly, and was with Milo and I for about 5 minutes. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Ok. I'll check with Kevin to see what he says just because it's somewhat borderline. But I'll just count everyone else you listed for now.. Thank you. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Yeah I should be back for Tuesdays meeting. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Yeah as long as you aren't symptomatic then. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Do you have the recruitment flyer from last year saved anywhere?. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Mr. B said  that he will open the job this week. And by the end of the week if you're the only one that applies then we can move forward. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "hey, what were we going to do at the meeting tomorrow?. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "The new people are coming next week. Not tomorrow. The debriefing is irrelevant to them. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "I said that. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "You said new people could come tomorrow. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "ohhh sorry about that, I read your original message incorrectly. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "No worries. I just don’t want them losing interest from listening to something that they don’t understand yet haha.. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Can I get your email so I can redirect the people who can not afford the dues?. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "cassie.pezza@team484.org. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Can I have access to make announcements. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Not sure why you currently don't. I'll fix that. you should have access to the announcements channel. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Ok thanks. I didn’t the other day I don’t think.. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Okay, I updated the permissions. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Mr. B just emailed me back and said he is looking to schedule the interview next week so you guys don't need to go talk to him tomorrow about it lol. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Sounds good. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Hey! There's a duplicate of your account on the FIRST roster right now. I'm removing the one that doesn't have a consent and release signed. If you get an email about being removed, don't worry you're still on the roster. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Okay, thanks. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Hey! You left your AP Environmental Science binder in the room. Do you need it before Thursday's meeting?. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "No, I should be fine. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Ok. We’ll just leave it on the desk then. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "I just sent an email with the following information to both you and your parent. We've determined that you were in close proximity to another person at Monday's meeting who has since tested positive for COVID. We are asking that you remain home from robotics meetings for the rest of the week (Wednesday-Saturday) to ensure there is no further potential spread on the team. You are encouraged to continue working with your design group remotely during this time.. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "If we get a negative test can we go?. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Not until 5 days after exposure which would put the test date on/after Saturday. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "What do you mean?. Why would I have to wait until Saturday?. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Because the cdc guidelines specify the test has to be taken 5 days after exposure to end quarantine early.. I think it comes down to you can spread the virus for up to two days before a positive test would show up so they have the test wait a few days to ensure it’s not a false negative. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "So can we take it early on Saturday?. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Yes that can work. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "join on your phone. john started a call that lasted a few seconds. — 01/22/2022 1:23 PM. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Can you send the videos from tonight?. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": ". . . "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Is there any chance we can have a virtual meeting for people that want to go just to work out the kinks of the design and figure out as much as we can. I know it makes it harder due to the fact that we don't have a cad of the robot. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Yeah we can have a virtual meeting to discuss our plan going forward and how to fast track everything. I know we last nights meeting with “that’s a problem for tomorrow” when we got hung up. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Is it possible to add my dad to the roster?. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "That's not really the intent of the events being limited to the team roster, so I don't think it's right to add him to the roster just so he can go. We are always looking for more mentors though, so if he has time and is willing to become a proper mentor (clearances submitted to the school, committed to coming  at least once a week, etc), then we could explore adding him to the roster for the next competition. (edited). "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "I cannot come in early tomorrow. I forgot I have a presentation tomorrow until 1:30/2. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Okay, what time do I need to be at the school. I'm going home to eat after school. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "We need to leave by 3:15 at the latest. Ideally you’d come back as soon as possible to help load the busses. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Permission slip. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": ". "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "while we're talking. me and chris were talking about a first interest meeting. do we have any idea when that can be?. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "I think it will depend on when Mr. B gets back to me. I'll email him first thing Monday to see where everything stands.. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "I'll also talk to him in person to remind him. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "With that many people interested, we will more than likely have the interest meeting in the main commons. In the past, students have held unofficial interest meetings in the cafeteria briefly after school (15-30minutes) just to give other students an idea of the time commitment and meeting schedule. So you could try doing that too assuming you wouldn't get kicked out right away.. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Yeah, I'll make it happen. One other thing, what are we doing about funding?. Based on the past I'm a bit worried about this. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "We should have 1 years worth of funding saved up as a buffer (according the the google drive financing spread sheet at least) (edited). Assuming it's all still in the account. But that's something Preddy was pretty keen on ensuring. And we can start looking around for sponsorships else where. There's a lot of companies that have FIRST specific sponsorships we can apply to and then we can reach out directly to old sponsors to see about getting the sponsorships back.. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Alright, do we want to have a fundraiser of some sort at school?. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Yeah we should see about doing a fundraiser of some kind. I doubt Applebee's is doing theirs right now, but we've done car washes in the past. Could also try coming up with new fundraising ideas too.. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "I also have some experience with email fundraising which can work well in this scenario. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "What's email fundraising?. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "You send emails to all of your contacts. And with 20 members that number can add up quickly. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Ah I see. We have an alumni email list that we can reach out to too. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Yeah, it actually works very well from my experience. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "We might be able to tailor the alumni email to also see if any are still in the area and interested in mentoring.. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Sounds good. I'll aim to have the interest meeting sometime next week to hold retention. Thanks for the help. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Yeah no problem!. Also for CAD fusion360 has a bunch of self-paced tutorials on their website that I usually recommend when starting out with CAD. https://help.autodesk.com/view/fusion360/ENU/courses/ Fusion has a free educational plan, they'll need to confirm you're a student which could take up to 7 days. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Awesome. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "If you get stuck on any of them, just reach out for help. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Hey, is the meeting you announced on discord different than the interest meeting?. Just wanted to sort that out before I send out an email. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Yeah it’s mostly just for existing members to get an idea of how to go about this year with all the new recruits. Any new people on the discord already are good to join too though. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Alright, I'll still move forward with the interest meeting this Thursday then. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Do you know if the school has our funding built into the budget?. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "They usually provide us with ~$5000 in sponsorship a year. It most likely is still in the budget, but I can confirm with Mr. B. On top of that, we should have some money left over from the 2019-2020 school year (assuming it was left in whatever account it gets kept in). "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Do you think the left over money is enough?. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "It looks to be enough for 1 year. We should still work on building sponsorships because that process can take time and we want to make sure we have funding to keep going next year too.. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Should we start that process now?. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Just to give an idea as to how many people we have, there are 20-22 people that are definitely interested in robotics that are in the discord. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Hey! Kevin created a rocket.chat for us to test out how we feel about it before deciding what to switch to. Check it out here: https://chat.team484.org/register/roboforce. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "what was the issue with discord?. im not objective, just curious. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "The DMs aren't hosted inside of our server so 1) technically mentors and students \"friend\" each other on discord to talk which is typically looked down on and 2) there's no DM log incase we need to send it to admin for whatever reason. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "sounds good, do we want to keep the discord up?. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Yeah we can keep it up for now. Eventually I might leave it but you guys can keep it around as an unofficial way to communicate also if you wanted.. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "yeah its all good, makes sense to have something more official. did you want me to announce it? Or are you already sending it around. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "We just want to use the weekend to play around with it to make sure it's a good fit before sending it out to everyone. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "got it, thanks for letting me know. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Yeah no problem. Feel free to play around with some if you have time and provide feedback. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Do you know how to access the fusion 360 educational license? They keep asking me for a verification email which is blocked on the school emails. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Hey, is there something we can figure out for a head mentor?. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "As in other ways to find one?. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "No, I mean can you or someone else fill the role?. Or split it with another mentor. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "If the school lets it happen, I can help. I can't commit every day of the week because I have a few night classes this quarter and next though. But if there's a second person to split it with, that would work since I think 1 \"head\" mentor has to be present at each meeting. I can see if Kevin wants to split it, but last I checked, he wants to help mentor technically without the responsibility of being a head mentor (aka paperwork lol). "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "How many mentors do we have? And of it's not enough, where can we get more?. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Kevin Connell and I are able to help most days of the week. I think Sarkis and Preddy are on a \"maybe once, maybe twice\" a week during build season type commitment right now. I'm not sure of anyone else. So 2-4 on any given night. \n\nMost mentors from the past have come from parents so once we get things running in the school, we use the usual parents meeting to try and recruit more. For the fall 2-4 mentors should be enough. But we'd want more by build season. And we can reach out to local alumni to see if any of them have availability too. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Alright gotcha, let me know if I can help with that. We'll keep asking teachers. But in the short term, I think we should plan something for the activities fair. That's pretty essential. I have some people that wanted to work on that, so if you have any ideas that would be great before we start. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Yes definitely work on that. When is it? If we don’t have access to the room yet, the best bet is probably just small flyers about the club to hand out at the event and maybe a poster that says robotics so people know what it is when walking by? There’s flyers from previous years in the google drive. Do you guys have access to the drive?. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "I do not. We can make one. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "There's a lot of data and files saved in the existing one so it probably makes more sense to just share it with you.. In case you need any of it in the future. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Gotcha. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "jmurphy5613@gmail.com. Share it with that. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Hey. We were going to have a \"meeting\" tomorrow to sort everything out for the activities fair. Me and Maya already found a teacher to host the meeting after school. Just wanted to let you know. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Hopefully the meeting goes well today. I don't have access to the drive right now, I have to coordinate with Sarkis to get passed the security measures. But once I do, I'll be able to share it with you. Let me know if you run into any problems that I might be able to help with (edited). "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "It's been rescheduled to next Tuesday. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "also. they told me to tell you to contact them asap for the head mentor role. its apparently a paid position. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Contact Beradoni?. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "yes. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Have you spoken to Mr. B yet?. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Yeah. He said he’ll get back to me next week. It seems they’re still looking for a teacher for now.. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": ". "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Nice! If the robot is functional, do you have space for it at the activity fair? (edited). "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "Yeah. The robot works. Chris, Maya, Jon, Jordan and I are going to be operating the activities fair. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Is the activities fair tomorrow?. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "nope, friday. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "Ah ok. Hopefully it goes well! Let me know if you need anything before hand. I'll let you know if Mr. B gets back to me next week.. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "we're good for the most part. We are getting into school early on Friday to set up the robot. then we're going to shoot it at the wall or something. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "hey, I was looking to get into cad this year because I'm pretty sure no one on the team knows how to. Do you have any advice in regards to learning cad?. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "if you have any specific rules you want, please lmk. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "The only thing I can really think of right now is keeping it school appropriate.. "
+    },
+    {
+        "messageAuthorName": "john",
+        "messageText": "agreed. also, if you don't feel comfortable with me running the server ill hand the server off. just lmk. "
+    },
+    {
+        "messageAuthorName": "cmep125",
+        "messageText": "I don't think it's a big deal who has ownership. I do know we had Sarkis own Slack though just to be on the safe side. But ideally, everyone will have as much permissions as possible. To be fair, we assumed Sarkis would be around longer than whichever student owned slack so it was just easier that way for using it in the future... didn't work out that way though haha. "
+    }
+]
