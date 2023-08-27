@@ -9,7 +9,13 @@ document.getElementById('startScraping').addEventListener('click', () => {
 
 document.getElementById("demo-data-button").addEventListener('click', () => {
     console.log("Demo data");
-});
+
+    fetch('rawData.json')
+    .then(response => response.json()) 
+    .then(data => {
+        convertJsonToCsv(data);
+    })
+}); 
 
 chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
     if (request.action === 'scrapingFinished') {
@@ -20,5 +26,7 @@ chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
     }
 });
 
-
+const convertJsonToCsv = (json) => {
+    console.log(json)
+}
 
