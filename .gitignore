@@ -1,2 +1,5 @@
-rawData.json
-convertedData.csv
+dist
+coverage
+node_modules
+.DS_Store
+.env
